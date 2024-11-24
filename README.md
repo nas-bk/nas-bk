@@ -19,7 +19,7 @@
 <img width="6%" title="Appium" src="images/logo/Appium.png">
 <img width="6%" title="Jenkins" src="images/logo/jenkins-original.svg">
 <img width="6%" title="Allure Report" src="images/logo/AllureReports.png">
-<img width="5%" title="Allure TestOps" src="images/logo/AllureTestOps.svg">
+<img width="6%" title="Allure TestOps" src="images/logo/AllureTestOps.svg">
 </p>
 
 ### Portfolio
